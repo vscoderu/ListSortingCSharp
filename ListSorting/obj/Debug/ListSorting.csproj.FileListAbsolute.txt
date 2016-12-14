@@ -1,0 +1,6 @@
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\ListSorting\ListSorting\bin\Debug\ListSorting.exe.config
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\ListSorting\ListSorting\bin\Debug\ListSorting.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\ListSorting\ListSorting\bin\Debug\ListSorting.pdb
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\ListSorting\ListSorting\obj\Debug\ListSorting.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\ListSorting\ListSorting\obj\Debug\ListSorting.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\ListSorting\ListSorting\obj\Debug\ListSorting.pdb
